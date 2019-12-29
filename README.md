@@ -4,7 +4,7 @@
 
 如果您感觉有所帮助，请激励作者继续努力~
 
-<img src="weixin.JPG" width = "400" height = "400" div align=center />
+<img src="weixin.jpg" width="400" height="400" div align=center />
 
 
 
