@@ -162,6 +162,7 @@
 
 [zaproxy](https://github.com/zaproxy/zaproxy)：支持WIndow GUI和Linux py
 
+[xray](https://github.com/chaitin/xray)
 
 #### 2.2 CMS&中间件漏洞
 
