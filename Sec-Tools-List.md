@@ -25,6 +25,8 @@
 
 [ThreatIngestor](https://github.com/InQuest/ThreatIngestor)：Twitter、RSS等
 
+[sherlock](https://github.com/sherlock-project/sherlock)：在280+社交账号上搜索用户
+
 * 文件元数据
 
 [FOCA](https://github.com/ElevenPaths/FOCA)
@@ -89,6 +91,8 @@
 
 [machinae](https://github.com/HurricaneLabs/machinae)：从公共站点/订阅源收集有关各种与安全相关的数据的情报的工具：IP地址，域名，URL，电子邮件地址，文件哈希和SSL指纹
 
+[pown-recon](https://github.com/pownjs/pown-recon)：网站多种信息搜集，包括Github信息等
+
 
 * 防护识别 ( waf&cdn )与绕过
 
@@ -103,6 +107,9 @@
 [Atlas](https://github.com/m4ll0k/Atlas)：修改sqlmap篡改绕过WAF/IDS/IPS
 
 [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)：Waf总结及绕过方式
+
+[identYwaf](https://github.com/stamparm/identYwaf)：支持识别80多种不同的保护产品waf
+
 
 #### 1.4 搜索技术(OSINT)
 
@@ -124,6 +131,8 @@
 [Raccoon](https://github.com/evyatarmeged/Raccoon)
 
 [PmWebDirScan](https://github.com/pmiaowu/PmWebDirScan)
+
+[scout](https://github.com/liamg/scout)：web目录扫描
 
 * 源码泄露
 
@@ -149,6 +158,15 @@
 
 [ezXSS](https://github.com/ssl/ezXSS)
 
+* SQL Injected
+
+[sqlmap](https://github.com/sqlmapproject/sqlmap)
+
+[jsql-injection](https://github.com/ron190/jsql-injection):图形化自动SQL注入利用工具，支持23种数据库
+
+* CORS
+
+[theftfuzzer](https://github.com/lc/theftfuzzer)
 
 * WEB Exploit Scanner
 
@@ -163,6 +181,8 @@
 [zaproxy](https://github.com/zaproxy/zaproxy)：支持WIndow GUI和Linux py
 
 [xray](https://github.com/chaitin/xray)
+
+[wfuzz](https://github.com/xmendez/wfuzz)：web fuzz工具
 
 #### 2.2 CMS&中间件漏洞
 
@@ -185,6 +205,9 @@
 [autoSource](https://github.com/Securityautomation/autoSource)
 
 [seecode-audit](https://github.com/seecode-audit/seecode-audit)
+
+[codecat](https://github.com/CoolerVoid/codecat):静态规则审计C,C++,GO,Python,javascript,Swift,PHP,Ruby,ASP and Java
+
 
 #### 2.3 其他方面漏洞检测&利用工具
 
@@ -491,6 +514,8 @@ PS> Invoke-MetaTwin -Source c:\windows\system32\netcfgx.dll -Target .\beacon.exe
 
 [rdp-file-password-encryptor](https://github.com/RedAndBlueEraser/rdp-file-password-encryptor)
 
+[spraykatz](https://github.com/aas-n/spraykatz)：远程procdump解析转储
+
 
 ### 2. 其他密码
 
@@ -542,6 +567,8 @@ PS> Invoke-MetaTwin -Source c:\windows\system32\netcfgx.dll -Target .\beacon.exe
 [xunfeng](https://github.com/ysrc/xunfeng)
 
 [Ladon](https://github.com/k8gege/Ladon)
+
+[SecurityManageFramwork](https://github.com/zhaoweiho/SecurityManageFramwork)
 
 
 ## Lateral_Movement
@@ -692,6 +719,8 @@ PS> Invoke-MetaTwin -Source c:\windows\system32\netcfgx.dll -Target .\beacon.exe
 [wikipedia-c2](https://github.com/dweezy-netsec/wikipedia-c2)
 
 [C2-Blockchain](https://github.com/geek-repo/C2-Blockchain)：区块链C2
+
+[TrelloC2](https://github.com/securemode/TrelloC2)：利用Trello分发命令
 
 ### 8. Powershell&JavaScript
 
