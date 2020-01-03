@@ -194,6 +194,8 @@
 
 [wpscan](https://github.com/wpscanteam/wpscan)：WordPress Vulnerability Scanner 
 
+[dedecmscan](https://github.com/lengjibo/dedecmscan)：织梦CMS漏洞扫描
+
 * Middleware Scan
 
 [F-MiddlewareScan](https://github.com/re4lity/F-MiddlewareScan)：中间件漏洞扫描
@@ -227,6 +229,7 @@
 
 [jackit](https://github.com/insecurityofthings/jackit)：无线键鼠利用
 
+[eaphammer](https://github.com/s0lst1c3/eaphammer)：针对WPA2-Enterprise网络的测试工具
 
 ### 3. 社会工程学攻击
 
@@ -776,6 +779,11 @@ PS> Invoke-MetaTwin -Source c:\windows\system32\netcfgx.dll -Target .\beacon.exe
 
 [pocsuite3](https://github.com/knownsec/pocsuite3)
 
+[koadic](https://github.com/zerosum0x0/koadic)
+
+[Rcode](https://github.com/SkyBlueEternal/Rcode)
+
+
 ### 11 Rat
 
 [AhMyth-Android-RAT](https://github.com/AhMyth/AhMyth-Android-RAT)
@@ -839,6 +847,9 @@ PS> Invoke-MetaTwin -Source c:\windows\system32\netcfgx.dll -Target .\beacon.exe
 [HaboMalHunter](https://github.com/Tencent/HaboMalHunter)：哈珀病毒分析系统
 
 [antispy](https://github.com/mohuihui/antispy)
+
+[attack_monitor](https://github.com/yarox24/attack_monitor)：系统事件监控杆和恶意软件动态分析工具
+
 
 * 日志、内存取证
 
